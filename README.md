@@ -1,6 +1,6 @@
-<div style="text-align: center">
-<h1 align="center">Hi 👋, I'm Vasilis!</h1>
-<h3 align="center">I’m a Full Stack Developer, with a strong focus on Back‑end, aspiring to design friction‑less APIs and applications, that myself and others can intuitively use. I’m in love with Machine Learning and extremely interested in Natural Language Processing.</h3>
+<div style="width:100%;text-align:center;">
+  <h1 align="center">Hi 👋, I'm Vasilis!</h1>
+  <h3 align="center">I’m a Full Stack Developer, with a strong focus on Back‑end, aspiring to design friction‑less APIs and applications, that myself and others can intuitively use. I’m in love with Machine Learning and extremely interested in Natural Language Processing.</h3>
 
 
   <a href="https://github.com/billsioros" target="_blank">
