@@ -56,10 +56,10 @@ I’m a Full Stack Developer, with a strong focus on Back‑end, aspiring to des
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" style="width: 100%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" style="width: 100%" align="center" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" style="width: 100%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" style="width: 100%" align="center" />
 
 </td></tr></table>
