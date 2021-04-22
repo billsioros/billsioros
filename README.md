@@ -61,7 +61,7 @@
 
 ## Github Stats
 
-<p>
-  <img style="float: left; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" width="45%" height="100%" />
-  <img style="float: left; margin: 0 auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" width="45%" height="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" width="50%" />
 </p>
