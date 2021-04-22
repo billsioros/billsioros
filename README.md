@@ -11,6 +11,7 @@
 </a>
 </p>
 
+## Rapidfire
 - 📫 How to reach me via <a href="mailto:billsioros97@gmail.com">email</a><br>
 - 🔭 I’m currently working on [Dotify](https://github.com/billsioros/dotify)
 
