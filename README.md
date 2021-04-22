@@ -22,10 +22,10 @@
 ## Github Stats  
 <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; table-layout: fixed; width=100%"><tr><td valign="top" style="border: none;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" align="center" width="50%"/>
 
-</td><td valign="top" style="border: none;">
+</td><td valign="top" style="border: none;" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" align="center" />
 
 </td></tr></table>
