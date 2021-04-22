@@ -60,7 +60,7 @@ I’m a Full Stack Developer, with a strong focus on Back‑end, aspiring to des
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true" align="left" />
 
 </td></tr></table>  
 
