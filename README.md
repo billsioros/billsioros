@@ -61,13 +61,7 @@
 
 ## Github Stats
 
-<table style="border-collapse: collapse; table-layout: fixed; width=100%">
-  <tr>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" align="center" />
-    </td>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" align="center" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsioros&hide_border=true&layout=compact" width="50%" />
+</p>
