@@ -1,15 +1,13 @@
-<div style="width:100%;text-align:center;">
-  <h1 align="center">Hi 👋, I'm Vasilis!</h1>
-  <h3 align="center">I’m a Full Stack Developer, with a strong focus on Back‑end, aspiring to design friction‑less APIs and applications, that myself and others can intuitively use. I’m in love with Machine Learning and extremely interested in Natural Language Processing.</h3>
+<h1 align="center">Hi 👋, I'm Vasilis!</h1>
+<h3 align="center">I’m a Full Stack Developer, with a strong focus on Back‑end, aspiring to design friction‑less APIs and applications, that myself and others can intuitively use. I’m in love with Machine Learning and extremely interested in Natural Language Processing.</h3>
 
 
-  <a href="https://github.com/billsioros" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" align="center"/>
-  </a>
-  <a href="https://linkedin.com/in/vasileios-sioros" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" align="center"/>
-  </a>
-</div>
+<a href="https://github.com/billsioros" target="_blank" style="text-align: center">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+</a>
+<a href="https://linkedin.com/in/vasileios-sioros" target="_blank" style="text-align: center">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
 - 📫 How to reach me via <a href="mailto:billsioros97@gmail.com">email</a><br>
 - 🔭 I’m currently working on [Dotify](https://github.com/billsioros/dotify)
