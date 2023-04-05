@@ -7,7 +7,7 @@
 <li>🔭 I’m currently working on <a href="https://github.com/the-dotify-project/dotify">Dotify</a>.</li>
 <li>🧐 Learning about <strong>FastAPI</strong>, <strong>NextJS</strong>, <strong>ML</strong>, and a bit of <strong>distributed systems</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/billsioros">Github</a>.</li>
-<li>💬 Ping me about <strong>Python, REST, ML, and NLP stuff</strong>.</li>
+<li>💬 Ping me about <strong>Python, FastAPI, ML, and NLP stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/vasileios-sioros/overlay/1635503282064/single-media-viewer/?profileId=ACoAACoGfP0BLlUSc-EZFLGz-STknzi8va8pwRE">resume</a>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
@@ -21,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" / alt="Redis" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt=".PyTorch" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
