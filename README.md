@@ -26,4 +26,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true" alt="billsioros" />
