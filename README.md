@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/vasileios-sioros/">Vassilis</a></h2>
 <p>I'm currently a MSc. Student @ <strong><a href="https://github.com/ntua">National Technical University of Athens</a></strong> and formerly a Software Engineer at <strong><a href="https://github.com/StoiximanServices">Kaizen Gaming</a></strong> based in Athens, Greece. I’m in love with Data Science & Machine Learning and extremely interested in Natural Language Processing and Text-to-Image Generation.</p>
-<p><a href="https://www.linkedin.com/in/vasileios-sioros/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/21odjurdoeeewkibivqu6d6wi"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<p><a href="https://www.linkedin.com/in/vasileios-sioros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/21odjurdoeeewkibivqu6d6wi"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
