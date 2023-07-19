@@ -4,7 +4,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/the-dotify-project/dotify">Dotify</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/billsioros/RoughGAN">RoughGAN</a> and <a href="https://github.com/billsioros/cookiecutter-pypackage">cookiecutter-pypackage</a>.</li>
 <li>🧐 Learning about <strong>FastAPI</strong>, <strong>NextJS</strong>, <strong>ML</strong>, and a bit of <strong>distributed systems</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/billsioros">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, FastAPI, ML, and NLP stuff</strong>.</li>
