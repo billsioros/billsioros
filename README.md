@@ -8,7 +8,7 @@
 <li>🧐 Learning about <strong>FastAPI</strong>, <strong>NextJS</strong>, <strong>ML</strong>, and a bit of <strong>distributed systems</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/billsioros">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, FastAPI, ML, and NLP stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.linkedin.com/in/vasileios-sioros/overlay/1635503282064/single-media-viewer/?profileId=ACoAACoGfP0BLlUSc-EZFLGz-STknzi8va8pwRE">resume</a>.</li>
+<li>📙 Check out my <a href="https://www.linkedin.com/in/vassilis-sioros/overlay/1635546868832/single-media-viewer/?profileId=ACoAACoGfP0BLlUSc-EZFLGz-STknzi8va8pwRE">resume</a>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
