@@ -1,18 +1,18 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/vasileios-sioros/">Vassilis</a></h2>
-<p>I'm currently pursuing a MSc. degree in <a href="https://dsml.ece.ntua.gr/">Data Science and Machine Learning</a> at <strong><a href="https://github.com/ntua">National Technical University of Athens</a></strong>. I’m extremely interested in Natural Language Processing and Text-to-Image Generation. I am currently working on various projects at <strong><a href="https://github.com/Group4Life">Group4Life</a></strong> and I have previously worked as a Software Engineer at <strong><a href="https://github.com/StoiximanServices">Kaizen Gaming</a></strong> based in Athens, Greece. </p>
-<p><a href="https://www.linkedin.com/in/vasileios-sioros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/21odjurdoeeewkibivqu6d6wi"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"></a><a href="https://billsioros.github.io/"><img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio/Blog"></a>
-</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/billsioros/RoughGAN">RoughGAN</a> and <a href="https://github.com/billsioros/cookiecutter-pypackage">cookiecutter-pypackage</a>.</li>
-<li>🧐 Learning about <strong>FastAPI</strong>, <strong>NextJS</strong>, <strong>ML</strong>, and a bit of <strong>distributed systems</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/billsioros">Github</a>.</li>
-<li>💬 Ping me about <strong>Python, FastAPI, ML, and NLP stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.linkedin.com/in/vassilis-sioros/overlay/1635546868832/single-media-viewer/?profileId=ACoAACoGfP0BLlUSc-EZFLGz-STknzi8va8pwRE">resume</a>.</li>
-</ul>
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
+[![Portfolio](./banner.png)](https://billsioros.github.io/)
+
+<h1>Hey 👋, I'm <a href="https://www.linkedin.com/in/vassilis-sioros/">Vassilis</a></h1>
+
+![Profile views](https://komarev.com/ghpvc/?username=billsioros&label=Profile%20views&color=60598F&style=flat)
+
+I am currently pursuing a MSc in [Data Science and Machine Learning](https://dsml.ece.ntua.gr/) at [**National Technical University of Athens**](https://www.ntua.gr/en), with a research focus on Natural Language Processing and Generative AI. Recently, I embarked on a new chapter in my career, serving as a CTO at [**Group4Life**](https://www.group4life.com) and managing people for the first time. I have previously worked as a Software Engineer at [Kaizen Gaming](https://kaizengaming.com) based in Athens, Greece. I have a background in software engineering, with extensive experience in Python and .NET technologies.
+
+<p><a href="https://www.linkedin.com/in/vassilis-sioros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/21odjurdoeeewkibivqu6d6wi"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"></a><a href="https://billsioros.github.io/"><img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio/Blog"></a>
+
+- 💼 Reach out to me via <a href="mailto:billsioros97@gmail.com">email.</a>
+- 💬 Ping me about Python, FastAPI, ML, and NLP stuff.
+- 📙 Check out my <a href="https://www.linkedin.com/in/vassilis-sioros/overlay/1635546868832/single-media-viewer/?profileId=ACoAACoGfP0BLlUSc-EZFLGz-STknzi8va8pwRE">resume</a>.
+
+<div class="badges-intro">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="25" height="25" />
@@ -27,5 +27,46 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=billsioros&show_icons=true&count_private=true" alt="billsioros" />
+</div>
+
+## 🌟 Featured Projects
+
+- **[RoughGAN](https://github.com/billsioros/RoughGAN)**: In this work, we look at how a Generative Adversarial Network (GAN)-based strategy, given a nanorough surface data set, may learn to produce nanorough surface samples that are statistically equivalent to the ones belonging to the training data set. We also look at how combining the GAN framework with a variety of nanorough similarity measures might improve the realisticity of the synthesized nanorough surfaces. We showcase via multiple experiments that our framework is able to produce sufficiently realistic nanorough surfaces, in many cases indistinguishable from real ones. Accompanying code for the paper [**Generating Realistic Nanorough Surfaces Using an N-Gram-Graph Augmented Deep Convolutional Generative Adversarial Network**](https://dl.acm.org/doi/fullHtml/10.1145/3549737.3549794) presented at [**SETN 2022**](https://hilab.di.ionio.gr/setn2022/).
+- **[HeartBeat :heartbeat:](https://github.com/billsioros/heartbeat)**: People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help. In this project, we create a complete solution featuring a [`FastAPI`](https://fastapi.tiangolo.com/) backend and a [`React`](https://react.dev/) frontend. We perform Exploratory Data Analysis (EDA) and develop a machine learning model using [`scikit-learn`](https://scikit-learn.org).
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=billsioros&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="billsioros's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=billsioros&theme=tokyonight&hide_border=true" alt="billsioros's Streak" height="165">
+  </p>
+</div>
+
+## ⚙️ My Development Environment
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+
+#### 🐧 WSL Sudoer
+
+Using Linux directly within Windows through the Windows Subsystem for Linux (WSL) for a smooth and powerful development experience.
+
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=gnu-bash&logoColor=white)
+  </td>
+  <td valign="top" width="50%">
+
+#### 🖥️ VSCode Maestro
+
+Boosting productivity with Visual Studio Code by using extensions and integrations for a smoother and more enjoyable coding experience.
+
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  </td>
+  </tr>
+  </table>
+</div>
