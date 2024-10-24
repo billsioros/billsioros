@@ -40,33 +40,3 @@ I am currently pursuing a MSc in [Data Science and Machine Learning](https://dsm
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=billsioros&theme=tokyonight&hide_border=true" alt="billsioros's Streak" height="165">
   </p>
 </div>
-
-## ⚙️ My Development Environment
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-
-#### 🐧 WSL Sudoer
-
-Using Linux directly within Windows through the Windows Subsystem for Linux (WSL) for a smooth and powerful development experience.
-
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=gnu-bash&logoColor=white)
-  </td>
-  <td valign="top" width="50%">
-
-#### 🖥️ VSCode Maestro
-
-Boosting productivity with Visual Studio Code by using extensions and integrations for a smoother and more enjoyable coding experience.
-
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  </td>
-  </tr>
-  </table>
-</div>
