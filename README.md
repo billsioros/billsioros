@@ -27,6 +27,8 @@ I am a PhD candidate at [NKUA](https://en.uoa.gr/), collaborating with [NCSR Dem
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 </div>
 
+---
+
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=billsioros&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="billsioros's Stats" height="165">
